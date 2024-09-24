@@ -1,5 +1,3 @@
-   CV 
-
 Yuriy Sobolyev
 ==============
 
