@@ -1,16 +1,40 @@
-### Hi there 👋
+   CV 
 
-<!--
-**YuriySobolyev/YuriySobolyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yuriy Sobolyev
+==============
 
-Here are some ideas to get you started:
+### Front-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me :
+
+My name is Yuriy.  
+I'm a front-end developer.  
+Already familiar with HTML , CSS , JS , React app , Git an more.  
+But I still want to know a lot more, so I'm always looking for new opportunities.  
+I am loving to coding and learn new technologies and  
+to improve my skills.
+
+### Contact Me :
+
+*   email: [ura1111@gmail.com](mailto:ura1111@gmail.com)
+*   github: [@YuriySobolyev](https://github.com/YuriySobolyev)
+
+### Skills :
+
+*   HTML
+*   CSS
+*   JS
+*   React
+*   Git
+*   Figma
+*   Photoshop
+
+### Languages:
+
+*   English
+*   Russian
+*   Ukrainian
+*   :-)
+
+Peace!!!
+--------
